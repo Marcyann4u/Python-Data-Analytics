@@ -41,3 +41,17 @@
 | Atribuição com multiplicação | *= |
 | Atribuição com módulo | %= |
 | Atribuição com exponenciação | **= |
+
+## Operadores de identidade
+
+| Operador | Simbologia |
+| -------- | ---------- |
+| É | is |
+| Não é | is not |
+
+## Operadores de associação
+
+| Operador | Simbologia |
+| -------- | ---------- |
+| Em | in |
+| Não está em | not in |
