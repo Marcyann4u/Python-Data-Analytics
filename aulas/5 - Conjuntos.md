@@ -126,5 +126,3 @@ sorteio = {1, 23, 1, 20, 17}
 1 in sorteio # True
 100 in sorteio # False
 ```
-
-
